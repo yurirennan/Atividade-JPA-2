@@ -1,0 +1,10 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+.project
+.classpath
+.springBeans
+.settings/
+target/
